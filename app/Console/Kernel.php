@@ -13,7 +13,7 @@ class Kernel extends ConsoleKernel
      * @var array
      */
     protected $commands = [
-		\LeftRight\Center\Console\Refresh::class,
+		// \LeftRight\Center\Console\Refresh::class,
         // Commands\Inspire::class,
     ];
 

@@ -15,7 +15,7 @@ class Kernel extends HttpKernel
      */
     protected $middleware = [
         \Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode::class,
-		\LeftRight\Center\Middleware\Permissions::class,
+		// \LeftRight\Center\Middleware\Permissions::class,
     ];
 
     /**
